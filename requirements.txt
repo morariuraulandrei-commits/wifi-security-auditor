@@ -1,0 +1,10 @@
+# WiFi Security Auditor — Python Requirements
+# Toate dependentele sunt din standard library Python 3.6+
+# Nu sunt necesare pachete externe — proiectul foloseste
+# doar uneltele native din Kali Linux (iw, iwlist, nmcli, nmap)
+
+# Optional (pentru functionalitati extinse - uncomment dacă dorești):
+# scapy>=2.5.0          # Packet capture avansat
+# colorama>=0.4.6       # Compatibilitate culori pe Windows
+# rich>=13.0.0          # Terminal output mai bogat
+# jinja2>=3.1.0         # Templating HTML alternativ
