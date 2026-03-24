@@ -1,0 +1,22 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.env
+.venv
+env/
+
+# Rapoarte generate (nu le includem în repo)
+wifi_audit_*.html
+wifi_audit_*.json
+
+# Fisiere temporare
+*.tmp
+*.log
+*.bak
+.DS_Store
+Thumbs.db
