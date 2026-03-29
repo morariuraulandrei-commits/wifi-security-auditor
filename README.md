@@ -1,5 +1,16 @@
 # 🛡️ WiFi Security Auditor
 
+> **⚠️ Support / Errors?**
+> If you encounter any issues, bugs, or compilation errors, please contact:
+> **📧 contact@morariuandreiraul.com**
+> I'll do my best to help you as quickly as possible.
+
+<div align="center">
+  <img src="https://media1.tenor.com/m/XKNjuLjL7W8AAAAd/naruto-thumbs-up.gif" alt="Naruto thumbs up" width="200"/>
+</div>
+
+---
+
 **Instrument educațional pentru auditarea securității rețelelor WiFi proprii**
 
 > ⚠️ **AVERTISMENT LEGAL**: Acest instrument este destinat exclusiv testării rețelelor WiFi pe care le dețineți sau aveți permisiunea explicită de testare. Utilizarea pe rețele fără autorizare este ilegală.
