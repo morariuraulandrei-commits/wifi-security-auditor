@@ -20,3 +20,6 @@ wifi_audit_*.json
 *.bak
 .DS_Store
 Thumbs.db
+
+# Secrets
+config.ini
